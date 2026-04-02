@@ -37,7 +37,7 @@ A comprehensive skills tracking and job posting application built with Flask. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Skill_app_flask.git
+   git clone https://github.com/ahmedsamir46/Big-Skills.git
    cd Skill_app_flask
    ```
 
